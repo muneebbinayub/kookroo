@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+font-family: monospace;
+color: white;
+text-align: center;
+font-size: 1.4rem;
+}
+
+img{
+    width: 300ppx;
+    height: 300px;
+margin-bottom: 33px;
+}
+
+#one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

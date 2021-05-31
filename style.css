@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+text-align: center;
+font-family: cursive;
+color: yellow;
+}
+
+
+#one{
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+#one button{
+    background-color: yellow;
+color: black;
+border: 2px solid black;
+padding: 9px 16px;
+    font-size: 20px;
+    border-radius: 18px;
+}
+
+h1{
+    font-family: 'Indie Flower', cursive;
+}
+
+#one img{
+
+height: 400px;
+width: 300px;
+
+}
+
+
+h2, h3{
+    font-family: 'Courier New', Courier, monospace;
+color: white;
+}
